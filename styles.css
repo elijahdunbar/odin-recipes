@@ -1,0 +1,20 @@
+body {
+    background-color: #D8D2CB;
+    font-size: 2em;
+}
+
+h1 {
+    text-align: center;
+    color: #1C658C;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #398AB9;
+}

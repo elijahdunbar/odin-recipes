@@ -1,0 +1,39 @@
+body {
+    background-color: #D8D2CB;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #1C658C;
+}
+
+h2 {
+    color: #398AB9;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ol {
+    text-align: justify;
+    padding: 0;
+}
+
+.ingredients {
+    display: inline;
+    margin-bottom: 30px;
+}
+
+.steps {
+    display: inline-block;
+    width: 50%;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
